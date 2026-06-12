@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevJourny",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-journy"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-journy?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
